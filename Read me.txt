@@ -1,0 +1,44 @@
+off https://learn.gomycode.co/checkpoints/2a75602a-90b9-4d46-bfc6-260639429a75
+Submission Deadline
+14 Oct 2022, 1:40 PM
+
+Objective of the second checkpoint (HTML):
+
+At this checkpoint, you’re instructed to:
+
+use semantic tags.
+add a video/audio to the web page.
+use local links, lists, or tables.
+use HTML forms.
+Here's an example to use as a guideline (keep in mind not to replicate it entirely. Try to be creative.)
+
+Instructions
+1- Create the navbar: home, about, work, resume, contact
+
+2- Create the “about” section, ”work” section, ”resume” section, and ”contact” section (using HTML Forms) 
+
+3- Create the page footer.
+
+
+_______________________________________
+Following the guideline and instructions with creativity as requested:
+
+I will use all the necessary and convenient semantic tags for this project, <header>, <article>, <figure>, <footer>
+to make clear sections for a semantic HTML that respects the logical hierarchy, from the HTML root
+to the entire tree.
+I will add a video and also a video to the web page
+I will use local links one of them to add a background image to make the html a little bit 
+more colorful we are not using CSS yet,
+and lists/tables (creativity condition)
+I will also use an external link to add my GMC profile picture as a favicon
+use html forms with clear descriptions
+I created the navbar, the different sections, and the footer
+check if it fits 'the portifolio condition"
+For creativity purposes: I used <fieldset> I learned from treecodecamp.org, placeholder attribute, 
+<legend>, <label>, comments <!-- comment -->, filled the alt/img alt attribute, 
+ordered & unordered lists, <figcaption>, headings with different importance, 
+<strong> to make some important words bold
+
+check the grammar first
+turn the read me.txt to the proper format
+
