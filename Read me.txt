@@ -26,7 +26,7 @@ Following the guideline and instructions with creativity as requested:
 
 I will use all the necessary and convenient semantic tags for this project, <header>, <article>, <figure>, <footer>
 to make clear sections for a semantic HTML that respects the logical hierarchy, from the HTML root
-to the entire tree.
+to the entire tree. DONE
 I will add a video and also a video to the web page
 I will use local links one of them to add a background image to make the html a little bit 
 more colorful we are not using CSS yet,

@@ -5,8 +5,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML navbar checkpoint</title>
+    <title>My Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="icon" type="image/png" sizes="32x32"
+        href="https://gomycodelearndev.blob.core.windows.net/profiles/80a61531-e31a-4e9c-a27c-26bf6f9781af-133042099757100333.jfif">
 </head>
 
 <body>
@@ -31,35 +33,75 @@
             <!--This comment is only to add a comment and also to say that I'm putting pictures beside each other 
                 of what we have learned already, inspired by a cool & simple portfolio pic I found on Google I thought I could make 
                 without the need for CSS that I didn't unlock on the platform yet-->
-            <h2>Things I've learned with instructors Mr. A. Moussaoui & Mr. S. Khouider</h2>
+            <h2>Things I've learned with instructors Mr. A. Moussaoui and Mr. S. Khouider</h2>
             <img src="./images/social-webfu-16x9.png" height="431" />
             <img src="./images/flyer.jpg" height="431" style="float:left" />
             <img src="./images/sta-je-html.jpg" height="400" />
             <img src="./images/programming-language-css.jpeg" height="400" style="float:right" />
         </section>
     </main>
-    <form>
-        <label for="">Name</label>
-        <input type="Text"><br><br>
-        <label for="">Email</label>
-        <input type="Email"><br><br>
-        <label for="">Password</label>
-        <input type="Password"><br><br>
-        <label for="">country</label>
-        <select name="Country" id="Country">
-            <option value="ALG">Algeria</option>
-            <option value="ARG">Argentina</option>
-            <option value="NZ">New Zealand</option>
-            <option value="UK">United Kingdom</option>
-            <option value="US">United States</option>
-            <option value="BR">Brazil</option>
-        </select><br><br>
-        <label for="">Subscribe</label>
-        <input type="Checkbox"><br><br>
-    </form>
+    <section>
+        <h3>For business inquiries please fill out this web form:</h3>
+        <form action="https://Haroun-receives-forms.com/submit-form">
+            <fieldset>
+                <legend>What type of website do you want to acquire?</legend>
+                <label>
+                    <input id="fully" type="radio" name="fully-CMS-IDK" value="fully" checked>a fully coded website
+                </label>
+                <label>
+                    <input id="CMS" type="radio" name="fully-CMS-IDK" value="CMS">a CMS website
+                </label>
+                <label>
+                    <input id="IDK" type="radio" name="fully-CMS-IDK" value="IDK">We do not know
+                </label>
+            </fieldset>
+
+            <label for="">Name</label>
+            <input type="Text" placeholder="Full name please"><br><br>
+
+            <label for="">Language</label>
+            <select name="Language" id="Language">
+                <option value="ALG">الدزيرية - Algerian dialect</option>
+                <option value="AR">عربية فصحى - Arabic (Modern Standard)</option>
+                <option value="NZ">English (New Zealand)</option>
+                <option value="UK">English (United Kingdom)</option>
+                <option value="US">English (United States)</option>
+                <option value="ES">Español (Spain)</option>
+                <option value="FR">Français (France)</option>
+                <option value="BR">Português - Portuguese (Brazil)</option>
+            </select><br><br>
+            <fieldset>
+                <legend>Subscribe to our newsletters to keep up on our latest updates and offers!</legend>
+                <label>
+                    <label>
+                        <input id="daily" type="checkbox" name="Daily-Weekly-Monthly-None" value="daily" checked>Our
+                        daily
+                        releases
+                    </label>
+                    <label>
+                        <input id="weekly" type="checkbox" name="Daily-Weekly-Monthly-None" value="weekly">Our weekly
+                        blog
+                    </label>
+                    <label>
+                        <input id="monthly" type="checkbox" name="Daily-Weekly-Monthly-None" value="monthly">Our monthly
+                        catalog
+                    </label>
+                </label>
+            </fieldset>
+            <label for="">We would like to be contacted by a moderator
+                <input type="checkbox" name="contactaModerator" id="contactaModerator"><br>
+            </label>
+
+            <label for="">Email</label>
+            <input type="text" name="email" placeholder="your email address" required>
+            <button type="submit">Submit</button><br><br>
+        </form>
+    </section>
     <footer>
-        <div class="footer1">
-            <h3>Created by B.M. Haroun for the GoMyCode Course</h3>
+        <div>
+            <h3>Created by B.M. Haroun for <a
+                    href="https://learn.gomycode.co/checkpoints/2a75602a-90b9-4d46-bfc6-260639429a75">the GoMyCode
+                    Course</a></h3>
         </div>
         <img src="icons8-twitter-48.png" alt="">
         <img src="" alt="">
