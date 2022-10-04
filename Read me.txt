@@ -3,7 +3,7 @@ Note: I'm not sure if the above link is only accessible through my account (Benm
 Submission Deadline
 14 Oct 2022, 1:40 PM
 
-Objective of the second checkpoint (HTML):
+The objective of the second checkpoint (HTML):
 
 At this checkpoint, you’re instructed to:
 
@@ -26,25 +26,15 @@ Following the guideline and instructions with creativity as requested:
 
 I will use all the necessary and convenient semantic tags for this project, <header>, <article>, <figure>, <footer>
 to make clear sections for a semantic HTML that respects the logical hierarchy, from the HTML root
-to the entire tree. DONE
-I will add a video and also a video to the web page
-I will use local links one of them to add a background image to make the html a little bit 
-more colorful we are not using CSS yet,
-and lists/tables (creativity condition)
+to the entire tree - DONE
+I will add a video to the web page - DONE
+I will use local links, lists/tables - DONE
 I will also use an external link to add my GMC profile picture as a favicon
-use html forms with clear descriptions
+use HTML forms with clear descriptions (placeholder attribute)- DONE
 I created the navbar, the different sections, and the footer
-check if it fits 'the portifolio condition"
-For creativity purposes: I used <fieldset> I learned from treecodecamp.org, placeholder attribute, 
+check if it fits 'the portfolio condition" - DONE
+For creativity purposes: I used <fieldset> I learned from treecodecamp.org, 
 <legend>, <label>, comments <!-- comment -->, filled the alt/img alt attribute, 
 ordered & unordered lists, <figcaption>, headings with different importance, 
-<strong> to make some important words bold
-
-Shortcuts:
-Just typed '!' in VsCode with "the proper pluggins" now I don't have to type the introductionary doctype, every meta elements like 
-the one that allows people to use their native language, <meta charset="UTF-8"> tells the browser to encode multiple languages 
-by adding a meta element as a child of the head element with its charset attribute set to UTF-8
-
-check the grammar first
-turn the read me.txt to the proper format
+<strong> to make some important words bold - DONE
 
